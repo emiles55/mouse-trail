@@ -8,7 +8,7 @@
     left: 0;
     pointer-events: none;
     background: radial-gradient(circle at 100px 100px, #5cabff, pink, purple, indigo, violet, white);
-    
+    text-align: center;
     z-index: 1111111; 
 
  /* so that it stays on top of all other elements */
